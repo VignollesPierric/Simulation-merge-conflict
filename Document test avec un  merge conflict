@@ -1,2 +1,2 @@
-Ceci est un texte qui DOIT être présent après avoir réglé le merge conflict.
-Si au-dessus, vous avez le texte qui doit être présent et celui-ci, alors vous avez réglé le merge conflict selon les indications qui vous ont été données.
+Ceci est un texte qui NE DOIT PAS être présent après avoir réglé le merge conflict.
+
